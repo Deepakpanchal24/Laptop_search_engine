@@ -1,0 +1,26 @@
+# streamlit==1.38.0
+# tornado==6.4
+# pandas==2.2.2
+# langchain-community==0.2.16
+# faiss-cpu==1.8.0
+# sentence-transformers==3.0.1
+# ollama==0.3.2
+
+
+# pandas
+# gradio
+# langchain
+# langchain-community
+# langchain-core
+# langchain-text-splitters
+# langchain-huggingface
+# langchain-groq
+# faiss-cpu   # Or faiss-gpu if you're using GPU
+streamlit
+protobuf
+langchain-huggingface
+langchain-community
+langchain-groq
+pandas
+sentence-transformers
+faiss-cpu
